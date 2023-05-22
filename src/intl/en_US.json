@@ -1,6 +1,10 @@
 {
 	"social-justice-zimlet": {
 		"title":"Social Justice Zimlet suggestion(s):"
-      }
+      },
+	"zimlet": {
+		"description": "The Social Justice Zimlet searches for words while you type an email and suggests alternative words.",
+		"label": "Social Justice Zimlet"
+	}
 }
 
